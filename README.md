@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susanna
 - 👀 I’m interested in quantum physics and quantum technologies
-- 🌱 I’m currently learning of hot quantum stuff
+- 🌱 I’m currently learning a lot of hot quantum stuff
 - 💞️ I’m looking to collaborate on cutting-edge research projects in the field of quantum physics, exploring topics such as quantum entanglement, quantum computing algorithms, and quantum information processing.
 
 
