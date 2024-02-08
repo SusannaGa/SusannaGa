@@ -2,7 +2,7 @@
 - 👀 I’m interested in quantum physics and quantum technologies
 - 🌱 I’m currently learning of hot quantum stuff
 - 💞️ I’m looking to collaborate on cutting-edge research projects in the field of quantum physics, exploring topics such as quantum entanglement, quantum computing algorithms, and quantum information processing.
-- 📫 How to reach me ... don't even try it
+
 
 <!---
 SusannaGa/SusannaGa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
